@@ -21,10 +21,10 @@
 <br>
 <br>
 
-<center>Выполнил: студент группы P1234</center>
-<center>Иванов И.И.</center>
-<center>Проверил: доц. каф. ИТ</center>
-<center>Петров П.П.</center>
+<center>Выполнил: студент группы RPO</center>
+<center>Фадеев.С</center>
+<center>Проверил:......</center>
+<center>.........</center>
 
 <br>
 <br>
